@@ -1,0 +1,5 @@
+meat, rice, lettuce
+meat, lettuce, cookie
+rice, lettuce, cookie
+meat, cookie, beverage
+rice, lettuce, beverage
